@@ -110,26 +110,6 @@ This project was built with AI assistance in the following ways:
 
 ---
 
-## 🖼️ Screenshots
-
-### 1. Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
-*Main dashboard showing KPIs and quick overview*
-
-### 2. ML Model Training
-![ML Models](screenshots/ml_models.png)
-*Training machine learning models with performance metrics*
-
-### 3. Campaign Optimization
-![Optimizer](screenshots/optimizer.png)
-*Running optimization with budget allocation results*
-
-### 4. Donor Segmentation
-![Donors](screenshots/donors.png)
-*Analyzing donor segments and generating strategies*
-
----
-
 ## 📊 Algorithms Implemented
 
 | Algorithm | Purpose | Library |
